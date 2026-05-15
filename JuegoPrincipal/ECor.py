@@ -8,7 +8,7 @@ from enum import Enum
     - Verde
     - SemCor (VEM DE DEFEITO)
 '''
-class COR(Enum):
+class ECOR(Enum):
     BRANCO = 1
     PRETO = 2
     VERMELHO = 3
